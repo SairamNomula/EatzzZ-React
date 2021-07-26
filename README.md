@@ -7,6 +7,7 @@
 
 ![EatzzZlast](https://user-images.githubusercontent.com/78247889/126961545-aa94a55d-6a50-41e0-b4b1-11113aec9c50.png)
 
+### preview: https://sairamnomula.github.io/EatzzZ-React/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
