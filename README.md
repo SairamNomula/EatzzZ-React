@@ -1,5 +1,5 @@
 ### A React Restaurant Website using Styled Components and React hooks.
-
+### Preview: https://eatzzz.netlify.app/
 ## Screenshot: 
 ![EatzzZ](https://user-images.githubusercontent.com/78247889/126961523-2703da8a-d7f9-4c5a-b794-80c45ea00ba2.png)
 ## This website is just the front end and is fully responsive.
@@ -7,7 +7,6 @@
 
 ![EatzzZlast](https://user-images.githubusercontent.com/78247889/126961545-aa94a55d-6a50-41e0-b4b1-11113aec9c50.png)
 
-### preview: https://sairamnomula.github.io/EatzzZ-React/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
